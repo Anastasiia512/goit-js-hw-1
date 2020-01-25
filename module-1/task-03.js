@@ -10,4 +10,4 @@ if (input === null) {
 } else {
   message = "Доступ запрещен, неверный пароль!";
 }
-console.log(alert(message));
+alert(message);
